@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Muhammd Ghani</p>
+<p align="left">My name is Muhammad Ghani</p>
 
 ###
 
