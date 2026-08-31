@@ -2,13 +2,13 @@
 
 ![Prof](https://media.giphy.com/media/rRhvF8BvrI8tkYyPMc/giphy.gif?cid=ecf05e47jh42xkomhj5psv6r7sfs7e0653v8l6ru7sffnjk8&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
-### My Skill:
+### 
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Muhammad Ghani</p>
+<p align="left">Nama saya Muhammad Ghani, saya adalah Mahasiswa Teknik Infromatika Universitas Teknologi Bandung</p>
 
 ###
 
@@ -29,6 +29,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
+
+
+###
+
+<h2 align="left">Social media</h2>
+
+
+
+
+
+### 🌐 Social Media
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/muhammad-ghani-undefined-216599301/)
+
+
+
+###
+
+### Quotes
+<p> "Singkat saja: "Bismillah"</p>
+
 
 ###
 
